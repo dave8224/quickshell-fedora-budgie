@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=JAG Quickshell
+Exec=qs -p /home/dave/.config/jag-budgie/quickshell
+Terminal=false
+X-GNOME-Autostart-enabled=true
+OnlyShowIn=Budgie;
